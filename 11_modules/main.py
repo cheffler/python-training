@@ -1,4 +1,8 @@
-import utility
-import shopping.shopping_cart
+# import utility
+# import shopping.shopping_cart
+#
+# print(shopping.shopping_cart.buy('apple'))
 
-print(shopping.shopping_cart.buy('apple'))
+import pyjokes
+
+print(pyjokes.get_joke('en', 'chuck'))

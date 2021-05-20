@@ -16,6 +16,3 @@ the file that is read by the python processor has `__name__` of `__main__`
 if __name__ == '__main__':
     # do thing
 ```
-
-## Builtin Modules
-
